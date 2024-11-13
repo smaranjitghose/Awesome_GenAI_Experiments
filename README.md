@@ -13,7 +13,7 @@ This repository serves as a practical resource for developers exploring various 
 
 | Description | Work |
 |------------|------|
-| OpenAI Compatibility with Gemini Models | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](link-to-your-colab) |
+| OpenAI Compatibility with Gemini Models | [![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-blue?logo=Jupyter)](./gemini/Gemini_OpenAI_Compatiblity.ipynb) |
 
 ## 📁 Repository Structure
 
