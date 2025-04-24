@@ -13,9 +13,10 @@ This repository serves as a practical resource for developers exploring various 
 
 | Description | Work |
 |------------|------|
-| MoonDream Visual Language Model Usage | [![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-blue?logo=Jupyter)](./vlm/moondream/Moondream_Tutorial.ipynb) |
+| MoonDream Visual Language Model Usage |  |
 | OpenAI Compatibility with Gemini Models | [![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-blue?logo=Jupyter)](./gemini/Gemini_OpenAI_Compatiblity.ipynb) |
 | [Custom LinkedIn Genie](./use_cases/Custom_LinkedIN_Genie.Md) | [![Prompt](https://img.shields.io/badge/Project-Documentation-green?logo=markdown)](./prompts/linkedin_post_prompt_01.txt) |
+| TTS - Dia 1.3 B | [![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-blue?logo=Jupyter)](https://github.com/smaranjitghose/Awesome_GenAI_Experiments/blob/main/DiaTTS.ipynb)|
 
 ## 📁 Repository Structure
 
